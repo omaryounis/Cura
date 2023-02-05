@@ -1,0 +1,12 @@
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\bin\Debug\net6.0\JWT.Application.deps.json
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\bin\Debug\net6.0\JWT.Application.dll
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\bin\Debug\net6.0\JWT.Application.pdb
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.csproj.AssemblyReference.cache
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.AssemblyInfoInputs.cache
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.AssemblyInfo.cs
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.csproj.CoreCompileInputs.cache
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.dll
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\refint\JWT.Application.dll
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\JWT.Application.pdb
+C:\Users\OmarPC\source\repos\Authentication API\JWT.Application\obj\Debug\net6.0\ref\JWT.Application.dll
